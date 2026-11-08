@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+dist/
+tests/*.log
+tests/*.json
+tests/*.png
+tests/controllers.txt

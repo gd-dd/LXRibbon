@@ -1,0 +1,1 @@
+{"type": "declarative", "title": "LX 飘带", "accent": "#86B83D", "sections": [{"title": "在 Max 中使用", "text": "打开工具文件夹，在 Max 中运行 打开飘带.ms。窗口与解算均在 Max 内运行。"}, {"actions": [{"action": "folder", "label": "打开插件文件夹"}]}]}

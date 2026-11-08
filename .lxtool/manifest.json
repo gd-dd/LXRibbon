@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "kind": "lx-tool",
+  "name": "LX 飘带",
+  "description": "Max 内全中文飘带骨骼动力学与动画烘焙",
+  "version": "0.0.1",
+  "category": "动画工具",
+  "icon": ".lxtool/icon.png",
+  "readme": ".lxtool/README.md",
+  "panel": ".lxtool/panel.json",
+  "applications": {},
+  "actions": {
+    "folder": {
+      "type": "openFolder"
+    }
+  },
+  "files": {
+    "solver.py": "21e46199409eddb5bacb1946a77d3340993170aeb30744fbcab9056305728e86",
+    "plugin.py": "fe3a6bc6bc9f34f9ae16d554fe999a9af49a49be0d142c477d976b4293d7a401",
+    "打开飘带.ms": "98eec2c6690b4b53337a7ba57cb45317442c0c073c1f6511cb5223ab20602b5a",
+    ".lxtool/icon.png": "54bc87a7296d56444e99af206a5ac6e0c2f43b04e5452a803c61b321a302b1f4",
+    ".lxtool/README.md": "b50dd69f052a630ac37498c99e048bc5d5664eeb6b0bee7aaa352f49f1aa3e97",
+    ".lxtool/panel.json": "aae219bee661209b628f3a0d06702704f385db0f2350949b5d5f2edd11a590e8"
+  }
+}
