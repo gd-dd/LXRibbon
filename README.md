@@ -1,3 +1,13 @@
+# LX 飘带已并入 Max 工具集
+
+LX 飘带已并入 [Max 工具集](https://github.com/gd-dd/3dmaxScript)，作为 Max 内的子工具使用。请使用 [Max 工具集新正式版本](https://github.com/gd-dd/3dmaxScript/releases)。
+
+本仓库只保留历史源码、Tag 和 Release，不再作为独立商店工具发展。旧安装不会自动删除；本变更不修改用户场景、安装或资源。历史标签、Release 和附件全部保留。
+
+以下为旧 v0.0.1 说明，仅供追溯，不代表新工具集的兼容范围或安装入口。
+
+---
+
 # LX 飘带 v0.0.1
 
 适用于 3ds Max 2026 的普通父子骨骼单链。全中文 Max 内窗口，白底嫩叶绿配色。
